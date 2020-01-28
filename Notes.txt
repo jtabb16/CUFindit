@@ -1,0 +1,8 @@
+Use npm start to form the environment to start editing the front end
+Use npm run to start the environment on local computer
+Use npm build to generate a folder of static files to put on the server
+
+docker build -t imageName .
+docker run -d -p 8000:8000 -p 8000:8000 imageName
+
+Change the nginx Dockerfile to have --dry-run for Let's Encrypt when testing it. You only get 50 tries on the legit server per week for your domain.
