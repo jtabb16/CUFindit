@@ -1,0 +1,29 @@
+{
+  "files": {
+    "main.css": "/static/css/main.d1b05096.chunk.css",
+    "main.js": "/static/js/main.7f41013b.chunk.js",
+    "main.js.map": "/static/js/main.7f41013b.chunk.js.map",
+    "runtime-main.js": "/static/js/runtime-main.8aa9b46c.js",
+    "runtime-main.js.map": "/static/js/runtime-main.8aa9b46c.js.map",
+    "static/js/2.21088550.chunk.js": "/static/js/2.21088550.chunk.js",
+    "static/js/2.21088550.chunk.js.map": "/static/js/2.21088550.chunk.js.map",
+    "index.html": "/index.html",
+    "precache-manifest.bee3666fe558011a517d2c5c06ba6581.js": "/precache-manifest.bee3666fe558011a517d2c5c06ba6581.js",
+    "service-worker.js": "/service-worker.js",
+    "static/css/main.d1b05096.chunk.css.map": "/static/css/main.d1b05096.chunk.css.map",
+    "static/js/2.21088550.chunk.js.LICENSE": "/static/js/2.21088550.chunk.js.LICENSE",
+    "static/media/airplane.jpg": "/static/media/airplane.4e727ae7.jpg",
+    "static/media/cave.jpg": "/static/media/cave.776fbab5.jpg",
+    "static/media/coke.jpg": "/static/media/coke.b7727334.jpg",
+    "static/media/dabo.jpg": "/static/media/dabo.9604da16.jpg",
+    "static/media/microscope.jpg": "/static/media/microscope.580eb5e5.jpg",
+    "static/media/tiger.jpg": "/static/media/tiger.5850718e.jpg",
+    "static/media/tillman.jpg": "/static/media/tillman.bc0c8f23.jpg"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.8aa9b46c.js",
+    "static/js/2.21088550.chunk.js",
+    "static/css/main.d1b05096.chunk.css",
+    "static/js/main.7f41013b.chunk.js"
+  ]
+}
